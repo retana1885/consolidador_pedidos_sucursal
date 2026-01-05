@@ -1,10 +1,10 @@
 {
   "db": {
     "driver": "ODBC Driver 17 for SQL Server",
-    "server": "100.123.31.119",
-    "database": "NOVACAJA5",
-    "username": "sa",
-    "password": "compucaja",
+    "server": "tu_servirdor",
+    "database": "tu_base de datos",
+    "username": "tu_usuario",
+    "password": "tu_contraseña",
     "trust_server_certificate": true
   },
   "app": {
@@ -13,4 +13,5 @@
     "templates_dir": "Plantillas",
     "default_output_name": "Traspasos_Apilado.xlsx"
   }
+
 }
