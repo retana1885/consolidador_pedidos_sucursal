@@ -1,0 +1,16 @@
+{
+  "db": {
+    "driver": "ODBC Driver 17 for SQL Server",
+    "server": "100.123.31.119",
+    "database": "NOVACAJA5",
+    "username": "sa",
+    "password": "compucaja",
+    "trust_server_certificate": true
+  },
+  "app": {
+    "tma_traspaso": 16,
+    "origen_bodega_foltda": 2,
+    "templates_dir": "Plantillas",
+    "default_output_name": "Traspasos_Apilado.xlsx"
+  }
+}
